@@ -1,0 +1,60 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "author": "Silent Twin",
+  "name": "Blue Velvet",
+  "themes": [
+    {
+      "name": "Blue Velvet",
+      "appearance": "dark",
+      "style": {
+        "background":                       "#1e273e",
+        "border":                           "#1a1a1a",
+        "border.variant":                   "#1e1e1e",
+        "created":                          "#7dd4a8",
+        "deleted":                          "#e87d8f",
+        "editor.background":                "#222b44",
+        "editor.foreground":                "#e5e1ea",
+        "editor.gutter.background":         "#222b44",
+        "error":                            "#e87d8f",
+        "error.background":                 "#1e273e",
+        "error.border":                     "#e87d8f",
+        "hint":                             "#c6c7d2",
+        "modified":                         "#e4ca95",
+        "panel.background":                 "#1e273e",
+        "scrollbar.thumb.background":       "#616a8166",
+        "scrollbar.thumb.hover_background": "#616a81b3",
+        "status_bar.background":            "#1e273e",
+        "surface.background":               "#1e273e",
+        "tab.active_background":            "#1e273e",
+        "tab.inactive_background":          "#1e273e",
+        "tab_bar.background":               "#1e273e",
+        "terminal.background":              "#1d253a",
+        "text":                             "#fafafa",
+        "text.muted":                       "#c6c7d2",
+        "title_bar.background":             "#1e273e",
+        "toolbar.background":               "#1e273e",
+        "warning":                          "#e4ca95",
+        "warning.background":               "#1e273e",
+        "warning.border":                   "#e4ca95",
+        "players": [
+          {"cursor": "#f9f5f9", "selection": "#686f99"}
+        ],
+        "syntax": {
+          "attribute":      {"color": "#71bcd6"},
+          "comment":        {"color": "#8e9bc2"},
+          "comment.unused": {"color": "#c6c7d2"},
+          "constructor":    {"color": "#a3bde0"},
+          "function":       {"color": "#a3bde0"},
+          "keyword":        {"color": "#c89cde"},
+          "module":         {"color": "#e0aec7"},
+          "number":         {"color": "#eee1a0"},
+          "operator":       {"color": "#adabba"},
+          "property":       {"color": "#a3bde0"},
+          "string":         {"color": "#9ddf90"},
+          "type":           {"color": "#e0aec7"},
+          "variable":       {"color": "#e9e9ec"}
+        }
+      }
+    }
+  ]
+}
