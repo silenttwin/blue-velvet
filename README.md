@@ -11,7 +11,7 @@ A deep blue color scheme for the Zed/Gram text editors featuring muted pastel hi
 As an extension:
 
 ```sh
-git clone https://github.com/silenttwin/blue-velvet ~/.local/share/zed/extensions/blue-velvet
+git clone https://github.com/silenttwin/blue-velvet ~/.local/share/zed/extensions/installed/blue-velvet
 ```
 
 Or skip the extension and drop the theme in as a user theme:
